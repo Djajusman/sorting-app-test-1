@@ -17,11 +17,9 @@ npm install
 npm start
 
 ## Run Test
-```bash
 npm install
 npm test
 
 ## Run Project (with docker)
-```bash
 docker build -t sorting-app-test-1 .
 docker run --rm sorting-app-test-1
